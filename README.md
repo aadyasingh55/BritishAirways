@@ -1,7 +1,5 @@
 # Project: British Airways Review Analysis
 
-![[Airplane](airplane_image.png)](https://images.app.goo.gl/rfZtAwGzYqGuoTvh6)
-
 Welcome to the British Airways Review Analysis project! 🛫
 
 ## Description
@@ -94,14 +92,10 @@ Let's work together to uncover valuable insights from British Airways customer r
 
 ### Note
 
-This project was completed as part of a data analysis challenge, and the provided code and analysis techniques are for educational purposes.
-
-## Contact
-
-For any questions or inquiries, feel free to contact us at [email@example.com](mailto:email@example.com).
+This project was completed as part of my Data Science virtual programme and the provided code and analysis techniques are for educational purposes.
 
 ## Acknowledgements
 
-We would like to thank the organizers of the challenge for providing the opportunity to work on this insightful project.
+We would like to thank the British Airways & Forage for providing the opportunity to work on this insightful project.
 
 Happy analyzing! 🚀🔍
